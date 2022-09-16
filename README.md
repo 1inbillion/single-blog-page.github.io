@@ -1,2 +1,2 @@
 # single-blog-page.github.io
-single page website
+https://1inbillion.github.io/single-blog-page.github.io/
